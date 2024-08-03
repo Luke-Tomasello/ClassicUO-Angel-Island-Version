@@ -8,3 +8,6 @@ If CUO fails the handshake, and ForceGMNCUO is set, the user will get a dialog a
 This feature is optional and can be turned on/off server-side.</br>
 2. We send the standard OSI 0xD9 packet to the server. This packet is basically a collection of 'machine info'. The server uses a hash of this machine info to identify players trying to connect more than one account to our server (even if they are using a different IP Address.)</br>
 See Scripts\Misc\HardwareInfo.cs in the server for a complete explanation.
+
+# Video
+https://youtu.be/fgz0tpYZosg
