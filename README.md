@@ -11,3 +11,7 @@ See Scripts\Misc\HardwareInfo.cs in the server for a complete explanation.
 
 # Video
 https://youtu.be/fgz0tpYZosg
+
+# Discord
+
+https://discord.gg/GXcR2DsSnb
